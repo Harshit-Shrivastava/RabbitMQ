@@ -1,0 +1,9 @@
+C:\Personal\Projects\RabbitMQ\Send\bin\Debug\netcoreapp1.1\Send.deps.json
+C:\Personal\Projects\RabbitMQ\Send\bin\Debug\netcoreapp1.1\Send.runtimeconfig.json
+C:\Personal\Projects\RabbitMQ\Send\bin\Debug\netcoreapp1.1\Send.runtimeconfig.dev.json
+C:\Personal\Projects\RabbitMQ\Send\bin\Debug\netcoreapp1.1\Send.dll
+C:\Personal\Projects\RabbitMQ\Send\obj\Debug\netcoreapp1.1\Send.csprojResolveAssemblyReference.cache
+C:\Personal\Projects\RabbitMQ\Send\obj\Debug\netcoreapp1.1\Send.AssemblyInfo.cs
+C:\Personal\Projects\RabbitMQ\Send\bin\Debug\netcoreapp1.1\Send.pdb
+C:\Personal\Projects\RabbitMQ\Send\obj\Debug\netcoreapp1.1\Send.dll
+C:\Personal\Projects\RabbitMQ\Send\obj\Debug\netcoreapp1.1\Send.pdb
